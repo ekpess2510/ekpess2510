@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekpess2510
-- 👀 I’m interested in learning how to build wonderful applications in Dart using Flutter
+- 👀 I’m interested in learning how to build wonderful applications in Flutter using Dart
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me www.twitter.com/imanuelekpess
